@@ -1,7 +1,6 @@
 
-
 <?php
 
-echo '<center>Página em Construção!</center>';
+echo '<center>Agroeasy Tecnologia Agricola - Página em Construção!</center>';
 
 ?>
