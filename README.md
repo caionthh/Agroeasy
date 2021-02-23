@@ -1,2 +1,0 @@
-# Agroeasy
-Site Agroeasy
