@@ -5,6 +5,7 @@
     <head>
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/anims.css">
+        <title>Agroeasy - Tecnologia Agricola</title>
 
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@300&display=swap" rel="stylesheet"> 
