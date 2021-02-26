@@ -6,6 +6,10 @@
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/anims.css">
         <link rel="icon" href="img/agroeasy_ico.png">
+        <meta name="author" content="Agroeasy Tecnologia Agricola">
+        <meta name="description" content="Venda e Manutenção de Equipamentos Agricolas.">
+        <meta name="keywords" content="agroeasy, agricola, agrícola, hexagon, gps">
+
         <title>Agroeasy - Tecnologia Agricola</title>
 
         <link rel="preconnect" href="https://fonts.gstatic.com">
