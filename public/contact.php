@@ -5,6 +5,7 @@
     <head>
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/anims.css">
+        <link rel="icon" href="img/agroeasy_ico.png">
         <title>Agroeasy - Tecnologia Agricola</title>
         <link href="fontawesome/css/all.css" rel="stylesheet">
 
