@@ -41,10 +41,8 @@
                 <div class="sectionflex">
                 <div>
                 <p class="section-paragraph">
-                    Aliquam erat volutpat. Duis eget rhoncus nisl, sed ornare massa. In hac habitasse platea dictumst. Sed commodo erat ut lacus varius, lacinia consectetur arcu ullamcorper. In tristique tellus at eros fermentum vestibulum. Donec tempor nunc ac dolor congue consequat. In eget metus at nibh ullamcorper suscipit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut placerat bibendum magna et tempor. Mauris maximus odio ac risus sollicitudin venenatis. Maecenas vitae magna enim. Aliquam non finibus leo. 
-                </p>
-                <p class="section-paragraph">
-                    Aliquam erat volutpat. Duis eget rhoncus nisl, sed ornare massa. In hac habitasse platea dictumst. Sed commodo erat ut lacus varius, lacinia consectetur arcu ullamcorper. In tristique tellus at eros fermentum vestibulum. Donec tempor nunc ac dolor congue consequat. In eget metus at nibh ullamcorper suscipit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut placerat bibendum magna et tempor. Mauris maximus odio ac risus sollicitudin venenatis. Maecenas vitae magna enim. Aliquam non finibus leo. 
+                    Somos uma empresa especializada em tecnologias para agricultura. Com sede em Rondonópolis-MT,
+			Com foco em Agricultura de Precisão e tecnologias agricolas
                 </p>
                 <p class="section-paragraph">
                     CNPJ: 26.167.324/0001-02
